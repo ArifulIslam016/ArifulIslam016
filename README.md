@@ -39,7 +39,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ariful.islam.708366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful.islam.708366" height="30" width="40" /></a>
-    <h1></h1>
   <a href="https://dev.to/ariful_islam_39c4289f85e3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ariful_islam_39c4289f85e3" height="30" width="40" /></a>
 
 </p>
