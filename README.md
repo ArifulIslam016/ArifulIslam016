@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://i.ibb.co.com/DDSrxbZp/Black-and-Teal-Modern-Web-Developer-Presentation-2-page-0001-1.jpg" alt="banner" />
 </p>
-
-<h1 align="center">Hi, I'm Ariful Islam</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Ariful+Islam!;" />
+</h1>
+<!-- <h1 align="center">Hi, I'm Ariful Islam</h1> -->
 <h4 align="center">Aspiring MERN Stack Developer | Learning & Building Everyday</h4>
 <h1>
 <h3 align="left">Languages:</h3>
