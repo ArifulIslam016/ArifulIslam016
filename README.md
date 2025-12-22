@@ -36,14 +36,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulislam016&show_icons=true&locale=en" alt="arifulislam016" /></p>
 
+<!-- <p align="center">
+ <img src="https://streak-stats.demolab.com?user=ArifulIslam016&theme=dark&border_radius=6" alt="GitHub Streak" />
+</p> -->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislam016&" alt="arifulislam016" /></p>
   <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ariful.islam.708366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful.islam.708366" height="30" width="40" /></a>
   <a href="https://dev.to/ariful_islam_39c4289f85e3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ariful_islam_39c4289f85e3" height="30" width="40" /></a>
-
 </p>
+
   <h1></h1>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifulislam016" alt="arifulislam016" /></a> </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam016&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam016" /> </p>
