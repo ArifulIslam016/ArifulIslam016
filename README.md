@@ -36,10 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulislam016&show_icons=true&locale=en" alt="arifulislam016" /></p>
 
- <p align="center">
- <img src="https://streak-stats.demolab.com?user=ArifulIslam016&theme=dark&border_radius=6" alt="GitHub Streak" />
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislam016&" alt="arifulislam016" /></p>
   <h1></h1>
 <h3 align="left">Connect with me:</h3>
